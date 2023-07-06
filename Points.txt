@@ -1,0 +1,2 @@
+class -> Label Encoding
+sms -> TextVectorization
